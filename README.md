@@ -13,6 +13,13 @@ Use `pip` (or `pip3`, if there is a conflict with Python2) to install dependenci
 pip install -r requirements.txt
 ```
 
+### How to run
+
+In your terminal, navigate to the directory containing the script, then run the script with the command `python main.py [URL]`, replacing `[URL]` with the URL you want to shorten or the Bitlink you want to get the click count for.
+```
+python main.py https://example.com
+```
+
 ### Project Goals
 
 This code was written for educational purposes as part of an online course for web developers at [dvmn.org](https://dvmn.org/).
@@ -31,6 +38,13 @@ Python3 должен быть уже установлен.
 Затем используйте `pip` (или `pip3`, если есть конфликт с Python2) для установки зависимостей:
 ```
 pip install -r requirements.txt
+```
+
+### Как запустить
+
+В терминале перейдите в каталог, содержащий скрипт, затем запустите скрипт командой `python main.py [URL]`, заменив `[URL]` на URL, который вы хотите сократить, или на Bitlink, для которого вы хотите получить количество кликов.
+```
+python main.py https://example.com
 ```
 
 ### Цель проекта
