@@ -4,7 +4,7 @@ This is a script that allows you to shorten URLs using the Bitly API. If you pro
 
 ### How to install
 
-To use this script, you will first need to get a Bitly access token. You can get it from the Bitly website after registration. It will look something like this: "9f70cd85814b5fe2936abf685b". Store the token as an environment variable named TOKEN_BITLY.
+To use this script, you will first need to get a Bitly access token. You can get it from the Bitly website after registration. It will look something like this: "9f70cd85814b5fe2936abf685b". Store the token as an environment variable named BITLY_TOKEN.
 
 Python3 should already be installed.
 
@@ -24,7 +24,7 @@ This code was written for educational purposes as part of an online course for w
 
 ### Как установить
 
-Чтобы использовать этот скрипт, сначала вам нужно получить токен доступа Bitly. Вы можете найти его на сайте Bitly после регистрации. Он будет выглядеть примерно так: "9f70cd85814b5fe2936abf685b". Храните токен в виде переменной окружения с именем TOKEN_BITLY.
+Чтобы использовать этот скрипт, сначала вам нужно получить токен доступа Bitly. Вы можете найти его на сайте Bitly после регистрации. Он будет выглядеть примерно так: "9f70cd85814b5fe2936abf685b". Храните токен в виде переменной окружения с именем BITLY_TOKEN.
 
 Python3 должен быть уже установлен.
 
