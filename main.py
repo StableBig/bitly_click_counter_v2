@@ -1,6 +1,7 @@
 import requests
 from urllib.parse import urlparse
 import os
+from dotenv import load_dotenv
 
 
 def is_bitlink(token, url):
@@ -42,7 +43,8 @@ def count_clicks(token, link):
 
 
 def main():
-    token = os.environ['TOKEN_BITLY']
+    load_dotenv()
+    token = os.getenv('TOKEN_BITLY')
     try:
         url = input('Введите URL: ')
         if is_bitlink(token, url):
