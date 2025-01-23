@@ -22,7 +22,7 @@ python main.py https://example.com
 
 ### Project Goals
 
-This code was written for educational purposes as part of an online course for web developers at [dvmn.org](https://dvmn.org/).
+This code was written for educational purposes.
 
 
 # Обрезка ссылок с помощью Битли
@@ -49,4 +49,4 @@ python main.py https://example.com
 
 ### Цель проекта
 
-Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
+Код написан в образовательных целях.
